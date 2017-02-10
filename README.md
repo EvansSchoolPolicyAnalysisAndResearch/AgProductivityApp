@@ -18,3 +18,6 @@ After downloading the data, the .do files are to be run in this order:
 
 
 If you use or modify our app, or adapt it to your own data, please cite us using the provided citation and DOI. 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.290242.svg)](https://doi.org/10.5281/zenodo.290242)
+
